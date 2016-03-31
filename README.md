@@ -1,1 +1,1 @@
-# play-scala-rest-elasticsearch
+# Play Elasticsearch Template
