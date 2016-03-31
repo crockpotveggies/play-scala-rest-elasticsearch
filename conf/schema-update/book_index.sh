@@ -42,7 +42,7 @@ curl -XPUT 'http://localhost:9200/books' -d '{
                 },
                 "genres": {
                     "type": "string",
-                    "index_name": "genre"
+                    "index": "analyzed"
                 }
             }
         }
