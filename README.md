@@ -5,6 +5,8 @@
 
 ## 2) Run Play project
     `$ ./conf/schema-update/book_index.sh` (only the first time)
+    `$ cd docker/elasticsearch/`
+    `$ ./run_dockers.sh`
     `$ sbt run` (in the root folder)
 
 ## 3) Relevant Url's
